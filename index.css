@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  margin:0px;
+}
+#app-container{
+  background-color: bisque;
+  width: 100vw;
+  
+  padding: 80px;
+}
+#gooselogo{
+  display: block;
+  margin-left: auto;
+  margin-right:  auto;
+
+}
+h1{
+  text-align: center;
+}
+hr{
+  width: 60%;
+}
+h3{
+  color:orangered;
+}
+form *{
+  display: block;
+  padding: 12px;
+}
